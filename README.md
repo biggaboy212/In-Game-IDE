@@ -1,10 +1,24 @@
-# In Game IDE
-The IDE module can be deployed to any textbox
+# In-Game IDE
 
-An IDE module for Roblox studio, can efficiently support scripts up to 500 lines.
-<br>
-Based off of [boatbombers highlighting module](https://github.com/boatbomber/Highlighter) with added functionality ( Exploit lang, line highlighting, error highlighting, custom theme loader, performance fixes, built in execution and clearing, and more )
+An IDE module for Roblox Studio can efficiently support scripts up to 500 lines.
 
-Highlighter and Textboxplus - boatbomber
-<br>
-Exploit lang, line highlighting, error highlighting, and more - biggaboy212
+Based off of [boatbombers highlighting module](https://github.com/boatbomber/Highlighter)
+
+##### Credits:
+- **boatbomber**
+  - Base Highlighter and Textboxplus
+
+- **biggaboy212**
+  - Exploit language support
+  - Line highlighting
+  - Error highlighting
+  - Custom theme loader
+  - Performance fixes
+  - Built-in execution and clearing
+  - And more
+
+## Deploy
+
+Download a valid ide module from one of the update folders.
+
+The IDE module can be deployed to any textbox.

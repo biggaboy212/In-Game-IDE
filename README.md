@@ -11,15 +11,6 @@ Based off of [boatbombers highlighting module](https://github.com/boatbomber/Hig
 - **boatbomber**
   - Base Highlighter and Textboxplus
 
-- **biggaboy212**
-  - Exploit language support
-  - Line highlighting
-  - Error highlighting
-  - Custom theme loader
-  - Performance fixes
-  - Built-in execution and clearing
-  - And more
-
 ## Deploy
 
 Download a valid ide module from one of the update folders.

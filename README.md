@@ -6,7 +6,7 @@ Based off of [boatbombers highlighting module](https://github.com/boatbomber/Hig
 
 ##### Credits:
 - **dex**
-  - another highlighter used in the new ide, this one works way better and i've tried with 10k+ line scripts without any performance issues
+  - another highlighter base used in the new ide, this one works way better and i've tried with 10k+ line scripts without any performance issues
 
 - **boatbomber**
   - Base Highlighter and Textboxplus

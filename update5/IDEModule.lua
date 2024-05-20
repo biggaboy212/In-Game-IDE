@@ -1,6 +1,6 @@
 --// IDEModule.CodeFrame.new() returns an instance, it takes the full size of whatever it is parented to using UDim2 1,0,1,0.
 
---// UPDATE 5 - Added new functions CompileText and ReturnErrors, changed behavior, removed unnecessary variables and optimized variable use, changed cursor behavior, and fixed general bugs.
+--// UPDATE 5 - Added new functions ClearText, CompileText and ReturnErrors, changed behavior, removed unnecessary variables and optimized variable use, changed cursor behavior, and fixed general bugs.
 
 repeat wait() until game.Loaded
 

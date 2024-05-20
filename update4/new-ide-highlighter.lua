@@ -1,7 +1,4 @@
--- The 'new' returns an instance, it is a custom textbox, custom scrolling frame and highlighting.
-
--- original module was for Dex's scriptviewer, but I ported it as a module - it might not work out of the box i dont remember if i put game specific variables in it
--- this works in both studio and exploits, but exploits will have higher functionality
+--// IDEModule.CodeFrame.new() returns an instance.
 
 local rgb = Color3.fromRGB
 

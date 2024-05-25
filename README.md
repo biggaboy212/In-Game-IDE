@@ -15,4 +15,4 @@ Based off of [boatbombers highlighting module](https://github.com/boatbomber/Hig
 
 Download a valid ide module from one of the update folders.
 
-The IDE module can be deployed to any textbox.
+In the latest versions, the IDE module can be deployed to any GuiObject, and takes the full size of whatever it is parented to using UDim2 1,0,1,0

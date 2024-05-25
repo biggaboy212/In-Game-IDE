@@ -16,3 +16,5 @@ Based off of [boatbombers highlighting module](https://github.com/boatbomber/Hig
 Download a valid ide module from one of the update folders.
 
 In the latest versions, the IDE module can be deployed to any GuiObject, and takes the full size of whatever it is parented to using UDim2 1,0,1,0
+
+(in updates 3 and below it must be parented to a textobject.)

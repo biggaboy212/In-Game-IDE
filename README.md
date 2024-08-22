@@ -6,7 +6,7 @@ Based off of [boatbombers highlighting module](https://github.com/boatbomber/Hig
 
 ##### Credits:
 - **dex**
-  - Used in the new IDE modules. Supports as much lines as your memory will allow.
+   Used in the new IDE modules. Supports as much lines as your memory will allow.
     
 ## Deploy
 

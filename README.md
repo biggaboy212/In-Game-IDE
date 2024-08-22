@@ -5,8 +5,7 @@ An IDE module for Roblox Studio can efficiently support scripts up to 500k+ line
 Based off of [boatbombers highlighting module](https://github.com/boatbomber/Highlighter)
 
 ##### Credits:
-- **dex**
-   Used in the new IDE modules. Supports as much lines as your memory will allow.
+- **dex** | Used in the new IDE modules. Supports as much lines as your memory will allow.
     
 ## Deploy
 

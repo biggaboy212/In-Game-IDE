@@ -1,6 +1,6 @@
 # In-Game IDE
 
-An IDE module for Roblox Studio can efficiently support scripts up to 500 lines.
+An IDE module for Roblox Studio can efficiently support scripts up to 500k+ lines.
 
 Based off of [boatbombers highlighting module](https://github.com/boatbomber/Highlighter)
 
